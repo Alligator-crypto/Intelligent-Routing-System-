@@ -26,4 +26,5 @@ Developed locally using **Anaconda** and **JupyterLab** as part of my AI/ML inte
 ## 🖥️ How to Run
 1. Open **JupyterLab** or any terminal environment via **Anaconda**.
 2. Run the script cell.
-3. Input your origin and destination hubs on a single line separated by a space (e.g., `S H`)
+3. Input your origin and destination hubs e.g Origin (S)
+4. Now input any destination e.g Destination (H)
